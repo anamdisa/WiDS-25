@@ -1,0 +1,20 @@
+dupont: 0.4202
+sustainability: 0.2612
+people: 0.1735
+report: 0.1673
+water: 0.1673
+employee: 0.1352
+product: 0.1306
+include: 0.1296
+risk: 0.1275
+business: 0.1245
+dupont sustainability: 0.1226
+site: 0.1163
+planet: 0.1133
+management: 0.1117
+emission: 0.1092
+empower people: 0.1047
+people planet: 0.1047
+people thrive: 0.1040
+innovate good: 0.1025
+good protect: 0.1011

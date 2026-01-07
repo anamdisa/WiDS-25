@@ -1,0 +1,20 @@
+basf: 0.4209
+report: 0.2479
+statement: 0.1701
+financial: 0.1692
+management: 0.1466
+information: 0.1459
+million: 0.1282
+management report: 0.1222
+board: 0.1210
+risk: 0.1204
+value: 0.1198
+year: 0.1195
+combine management: 0.1179
+sustainability: 0.1153
+material: 0.1137
+basf report: 0.1068
+consolidate financial: 0.1029
+statement information: 0.1025
+report consolidate: 0.1019
+business: 0.1014
