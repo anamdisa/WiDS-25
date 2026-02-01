@@ -1,6 +1,6 @@
-WiDS Final Project: Data-Driven Carbon Footprint Analytics
+WiDS Final Project: Data-Driven Carbon Footprint Analytics 
 Complete pipeline for analyzing emissions data using Machine Learning and comparing with sustainability commitments using Natural Language Processing.
-
+Check for final codes, data, etc in Week-4 Folder.
 **Project Overview**
 
 This project consists of three integrated tasks:
