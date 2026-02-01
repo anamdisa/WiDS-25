@@ -1,0 +1,2 @@
+Actual_Slope_per_Year,Predicted_Slope_per_Year,Actual_Avg_Annual_Change_%,Predicted_Avg_Annual_Change_%,Data_Start_Year,Data_End_Year,Train_Test_Split_Year,Best_Model,Best_Model_R2,Best_Model_RMSE,Best_Model_MAE
+291.875212988812,292.430485133632,1.8930778490928775,1.910741284305601,1970,2018,2008,Ridge Regression,0.9998871167931908,8.522132792272814,3.568992409801808

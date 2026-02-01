@@ -1,0 +1,2 @@
+Analysis_Type,Baseline_Year,Baseline_Emissions,ML_Trend_Slope,ML_Annual_Change_%,Avg_YoY_Change_%,Number_of_Commitments,Number_with_Targets,Avg_Stated_Reduction_%,Avg_ML_Predicted_Reduction_%,Avg_Gap_%,Max_Gap_%,Min_Gap_%,Aligned_Commitments,Caution_Commitments,Gap_Commitments
+Gap Analysis Summary,2018,22568.138783402457,292.430485133632,1.2957669568599846,1.9107412843056013,18,15,83.66666666666667,-20.300348990806427,103.96701565747308,141.4645426195195,20.183067827439938,0,0,15
