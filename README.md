@@ -353,4 +353,4 @@ For issues or questions:
 ---
 
 **Last Updated**: February 2026
-**Project**: WiDS Week 4 - Data Driven Carbon Footprint Analytics
+
